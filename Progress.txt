@@ -1,20 +1,22 @@
--My Progress in the year of 2025-
-(this is all the Java Progress)
+My Progress in 2025
+(Focused on Java Development)
 
--January-
-Week 1: full understanding of iterating/looping through arrays
+January
+Week 1: Gained a good understanding of iterating and looping through arrays.
 
-Week 2: learned about ArrayLists and practices more with Arrays
+Week 2: Learned about ArrayLists and continued practicing with arrays.
 
-Week 3: Built a Bank System and Library System
+Week 3: Built two projects:
+-A Bank System.
+-A Library System.
 
-Week 4: we have something moer interesting here
--added login System into Bank and LIbrary System
--realised that I am stressing to much about the GitHub activity stuff 
---so now I will upload less but more usefull coding projects
---by the way this stress was getting rid of my fun at programming
+Week 4:
+-Added a login system to both the Bank and Library Systems.
+-Realized I was stressing too much over GitHub activity tracking.
+-Decided to prioritize quality over quantity when uploading projects.
+-This change weill help me bring the fun back into programming!
 
--February-
-Week 5: coming soon
+February
+Week 5: Coming soon...
 
-Week 6: coming soon
+Week 6: Coming soon...
