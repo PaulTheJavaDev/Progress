@@ -1,0 +1,9 @@
+-My Progress in the year of 2025-
+(this is all the Java Progress)
+
+Week 1: full understanding of iterating/looping through arrays
+Week 2: learned about ArrayLists and practices more with Arrays
+Week 3: Built a Bank System and Library System
+Week 4: text here rn
+Week 5: text
+Week 6: text
