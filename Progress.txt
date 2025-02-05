@@ -19,4 +19,7 @@ Week 4:
 February
 Week 5: Coming soon...
 
-Week 6: Coming soon...
+Week 6:
+learned more practical and easy stuff:
+-What are fields actually? (variables of a class)
+-Finished my first leetcode problem
